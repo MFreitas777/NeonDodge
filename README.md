@@ -43,7 +43,7 @@ Um jogo arcade 2D de sobrevivência extrema com uma estética *Cyberpunk / Synth
 3. `Core Gameplay` ➔ *(Em caso de colisão)* ➔
 4. `Game Over Pop-up` ➔ *(Opção A)* `Reiniciar Imediato` | *(Opção B)* `Voltar ao Menu Principal`
 
-## 8. Why it's fun
+## 8. 🔥 O Que Torna o Jogo Divertido
 O jogo transborda *"Game Juice"*. A ilusão de profundidade criada pela grelha néon em movimento constante no fundo (*Parallax-style grid*), o rasto de luz dinâmico do jogador, o *Screen Shake* nas colisões pesadas e os efeitos de *Slow-Motion* criam uma experiência visualmente extrema e gratificante. A introdução da "Garagem" cria retenção de jogador, motivando-o a bater recordes com o seu estilo favorito.
 
 ## 9. 🎨 Direção de Arte e Áudio
@@ -68,7 +68,7 @@ O jogo transborda *"Game Juice"*. A ilusão de profundidade criada pela grelha n
 - [x] Nave jogável personalizável (6 *Skins* funcionais e guardadas em memória).
 - [x] Sistema contínuo de "Spawn" com RNG (Random Number Generator) para ditar a raridade de *Power-ups* e Inimigos de IA.
 - [x] Motor de Partículas processual criado matematicamente em Swift (explosões de diferentes cores por código).
-- [x] UI Hierárquica Premium: Menu Inicial Animado, Garagem de Personalização, HUD *Watermark* de Gameplay
+- [x] UI Hierárquica Premium: Menu Inicial Animado, Garagem de Personalização, HUD *Watermark* de Gameplay, e Painel Popup de Game Over.
 
 ## 13. 🎯 Público-Alvo e Modelo de Negócio
 * **Target Demographics:** Jogadores casuais (*Hypercasual gamers*), idades entre 12-35 anos, que procuram sessões de jogo rápidas (1 a 3 minutos) enquanto esperam por transportes ou em pausas curtas.
